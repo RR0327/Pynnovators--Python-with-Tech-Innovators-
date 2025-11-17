@@ -41,7 +41,7 @@ Every day follows a simple process:
 
 ```python
 
-git clone https://github.com/your-username/Pynnovators--Python-with-Tech-Innovators.git
+git clone https://github.com/RR0327/Pynnovators--Python-with-Tech-Innovators.git
 cd Pynnovators
 python -m venv venv
 venv\Scripts\activate   # Windows
